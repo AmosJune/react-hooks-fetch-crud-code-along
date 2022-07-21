@@ -1,40 +1,22 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "ugali",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 7
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "ugali",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 8
     },
     {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "ugali",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
